@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Minooo1/Minooo1/main/profile-summary-card-output/moonlight/4-productive-time.svg)
-```
-
-    
